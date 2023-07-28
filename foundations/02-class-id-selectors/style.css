@@ -1,0 +1,16 @@
+.odd {
+   background-color: #ffcccc;
+   font-family: Arial, 'DejaVu Sans', sans-serif;
+}
+.second {
+    color:#0066ff;
+    font-size: 36px;
+}
+.third {
+    font-size: 24px;
+}
+.forth {
+    background-color: #b3ffb3;
+    font-size: 24px;
+    font-weight: bold;
+}
